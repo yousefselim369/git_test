@@ -1,2 +1,3 @@
 # git_test
-First repo
+My Fisrt GitHub repos
+Hello People!!
